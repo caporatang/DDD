@@ -1,11 +1,11 @@
-package org.example.toydomain
+package org.example.toyweb
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class ToyDomainApplication
+class ToyWebApplication
 
 fun main(args: Array<String>) {
-    runApplication<ToyDomainApplication>(*args)
+    runApplication<ToyWebApplication>(*args)
 }

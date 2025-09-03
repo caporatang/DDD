@@ -1,10 +1,10 @@
-package org.example.toydomain
+package org.example.toyweb
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class ToyDomainApplicationTests {
+class ToyWebApplicationTests {
 
     @Test
     fun contextLoads() {
